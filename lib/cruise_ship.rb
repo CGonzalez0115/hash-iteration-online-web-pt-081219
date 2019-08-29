@@ -13,3 +13,5 @@ def select_winner
     end
   end
 end
+
+winner
