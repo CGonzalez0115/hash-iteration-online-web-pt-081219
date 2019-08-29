@@ -1,4 +1,4 @@
-def select_winner
+def select_winner(suite, name)
   select_winner = {suite_a: "Amanda Presley", suite_b: "Seymour Hoffman", suite_c: "Alfred Tennyson",
   suite_d: "Charlie Chaplin", suite_e: "Crumpet the Elf"}
   select_winner.each do |suite, name|
