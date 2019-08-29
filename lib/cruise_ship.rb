@@ -12,6 +12,7 @@ def select_winner
       winner = name
     end
   end
+  winner
 end
 
-winner
+
