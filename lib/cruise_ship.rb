@@ -1,4 +1,4 @@
-def select_winner(suite: name)
+def select_winner(passengers)
   passengers = {
     suite_a: "Amanda Presley",
     suite_b: "Seymour Hoffman",
